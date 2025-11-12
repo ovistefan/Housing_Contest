@@ -1,1 +1,1 @@
-Uses scikitlearn model XGBoost Regressor to predict housing prices. Implements optuna to optimize hyperparameters. 
+Uses scikitlearn model XGBoost Regressor to predict housing prices. Implements optuna to optimize hyperparameters, multiple studies with different data variations used. This was mostly used to familiarize Optuna.
